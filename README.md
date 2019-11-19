@@ -1,5 +1,5 @@
 # RLtalk
-Talk on Reinforcement Learning and Multi-Armed Bandits for the Data Incubator
+Reinforcement Learning and Multi-Armed Bandits
 
 ## Installation Using Anaconda
 
